@@ -31,13 +31,13 @@ int comdroprateidx = 35;
 int rollidx = 36;
 int pitchidx = 37;
 
-float VOLTAGE = 12;
-float amps = 23;
-int flightmode = 99;
+float VOLTAGE = 0;
+float amps = 0;
+int flightmode = 0;
 double GPSLAT = 0.000001;
 double GPSLON = 0.000001;
-int satelites  = 15 ;
-int comdroprate = 60;
+int satelites  = 0 ;
+int comdroprate = 0;
 
 float roll   = 0;
 float pitch = 0;
