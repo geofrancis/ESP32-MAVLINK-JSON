@@ -79,7 +79,7 @@ void loop()
     sendcurrent();
     sendflightmode();
     sendGPSLAT();
-    sendGPSLAT();
+    sendGPSLON();
 
     //setmode_Auto();
   }
